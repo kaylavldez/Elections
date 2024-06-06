@@ -1,3 +1,5 @@
+Group Members: Kayla Valdez
+
 Link to Repository: https://github.com/kaylavldez/finalProject.git
 
 Dataset Source(s): https://dataverse.harvard.edu/dataverse/medsl 
