@@ -1,6 +1,6 @@
 Group Members: Kayla Valdez (117840698)
 
-Link to Repository: https://github.com/kaylavldez/finalProject.git
+Link to Repository: https://github.com/kaylavldez/Elections.git
 
 Dataset Source(s): https://dataverse.harvard.edu/dataverse/medsl 
 
